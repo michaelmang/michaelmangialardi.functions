@@ -1,0 +1,18 @@
+{
+  "name": "event-trigger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodemailer": "^6.1.1",
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "nodemailer-mailgun-transport": "^2.0.1"
+  },
+  "author": "Praveen",
+  "license": "ISC"
+}
